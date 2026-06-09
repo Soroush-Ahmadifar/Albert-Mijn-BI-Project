@@ -1,4 +1,4 @@
-```Select * from Customers;
+Select * from Customers;
 Select * from Products;
 Select* From Orders;
 Select * from OrderDetails;
@@ -18,4 +18,4 @@ Olive Oil
 Salmon Fillet
 Orange Juice
 Cola 1.5L
-were the Most Profitablr Items by the Net Prodit they generated*/```sql
+were the Most Profitablr Items by the Net Prodit they generated*/
